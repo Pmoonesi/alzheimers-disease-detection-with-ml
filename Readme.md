@@ -24,11 +24,11 @@ and improving patients’ quality of life.
 
 ## Table of Contents
 - [Installation](#installation)
-<!-- - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
 - [License](#license)
-- [Acknowledgements](#acknowledgements) -->
+- [Acknowledgements](#acknowledgements)
+<!-- - [Usage](#usage) -->
 <!-- - [Configuration](#configuration) -->
 <!-- - [Contributing](#contributing) -->
 
@@ -74,15 +74,17 @@ pip install numpy pandas scikit-learn
 
 We also need to make sure we have <ins>cuda enabled</ins> pytorch installed on our devices. To do that, you can visit [here](https://pytorch.org/).
 
-<!-- ## Usage
-
 ## Project Structure
 
 ## Results
 
+For detailed results and analysis, please refer to the [results](./reports/results.md).
+
 ## License
 
-## Acknowledgements -->
+## Acknowledgements
+
+<!-- ## Usage -->
 
 <!-- ## Configuration -->
 
