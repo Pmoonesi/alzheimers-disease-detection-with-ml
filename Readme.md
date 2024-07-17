@@ -94,7 +94,7 @@ root/
 │ ├── ADNI1/ 
 │ └── ADNI3/ 
 │
-├── reports/ # Results and outputs
+├── results/ # Results and outputs
 │ ├── 3 - classic-methods/
 │ ├── 4 - convolutional-neural-networks/
 │ ├── 5 - recurrent-neural-networks/

@@ -21,30 +21,30 @@ figures in parantheses represent macro and weighted averages respectively.
 ### Classic Methods - Three Classes
 
 **Fig-1: Performance of the models in section one without using PCA on the Adni1 dataset in the three-class problem.**
-![fig1](./3%20-%20classic-methods/fig1.png)
+![fig1](./3%20-%20classic-methods/tables/fig1.png)
 
 **Fig-2: Performance of the models in section one without using PCA on the Adni3 dataset in the three-class problem.**
-![fig2](./3%20-%20classic-methods/fig2.png)
+![fig2](./3%20-%20classic-methods/tables/fig2.png)
 
 **Fig-3: Performance of the models in section one while using PCA on the Adni1 dataset in the three-class problem.**
-![fig3](./3%20-%20classic-methods/fig3.png)
+![fig3](./3%20-%20classic-methods/tables/fig3.png)
 
 **Fig-4: Performance of the models in section one while using PCA on the Adni3 dataset in the three-class problem.**
-![fig4](./3%20-%20classic-methods/fig4.png)
+![fig4](./3%20-%20classic-methods/tables/fig4.png)
 
 ### Classic Methods - Two Classes
 
 **Fig-5: Performance of the models in section one without using PCA on the Adni1 dataset in the two-class problem.**
-![fig5](./3%20-%20classic-methods/fig5.png)
+![fig5](./3%20-%20classic-methods/tables/fig5.png)
 
 **Fig-6: Performance of the models in section one without using PCA on the Adni3 dataset in the two-class problem.**
-![fig6](./3%20-%20classic-methods/fig6.png)
+![fig6](./3%20-%20classic-methods/tables/fig6.png)
 
 **Fig-7: Performance of the models in section one while using PCA on the Adni1 dataset in the two-class problem.**
-![fig7](./3%20-%20classic-methods/fig7.png)
+![fig7](./3%20-%20classic-methods/tables/fig7.png)
 
 **Fig-8: Performance of the models in section one while using PCA on the Adni3 dataset in the two-class problem.**
-![fig8](./3%20-%20classic-methods/fig8.png)
+![fig8](./3%20-%20classic-methods/tables/fig8.png)
 
 ### Classic Methods - Conclusion
 
@@ -55,18 +55,18 @@ Generally, we can observe that using PCA has a positive impact on the performanc
 ### Convolutional Neural Networks - Three Classes
 
 **Fig-9: Performance of the CNN models on the Adni1 dataset in the three-class problem.**
-![fig9](./4%20-%20convolutional-neural-networks/fig9.png)
+![fig9](./4%20-%20convolutional-neural-networks/tables/fig9.png)
 
 **Fig-10: Performance of the CNN models on the Adni3 dataset in the three-class problem.**
-![fig10](./4%20-%20convolutional-neural-networks/fig10.png)
+![fig10](./4%20-%20convolutional-neural-networks/tables/fig10.png)
 
 ### Convolutional Neural Networks - Two Classes
 
 **Fig-11: Performance of the CNN models on the Adni1 dataset in the two-class problem.**
-![fig11](./4%20-%20convolutional-neural-networks/fig11.png)
+![fig11](./4%20-%20convolutional-neural-networks/tables/fig11.png)
 
 **Fig-12: Performance of the CNN models on the Adni3 dataset in the two-class problem.**
-![fig12](./4%20-%20convolutional-neural-networks/fig12.png)
+![fig12](./4%20-%20convolutional-neural-networks/tables/fig12.png)
 
 ### Convolutional Neural Networks - Conclusion
 
@@ -77,18 +77,18 @@ In this section, we observed that in both the binary and three-class problems, t
 ### Recurrent Neural Networks - Three Classes
 
 **Fig-13: Performance of the RNN models on the Adni1 dataset in the three-class problem.**
-![fig13](./5%20-%20recurrent-neural-networks/fig13.png)
+![fig13](./5%20-%20recurrent-neural-networks/tables/fig13.png)
 
 **Fig-14: Performance of the RNN models on the Adni3 dataset in the three-class problem.**
-![fig14](./5%20-%20recurrent-neural-networks/fig14.png)
+![fig14](./5%20-%20recurrent-neural-networks/tables/fig14.png)
 
 ### Recurrent Neural Networks - Two Classes
 
 **Fig-15: Performance of the RNN models on the Adni1 dataset in the three-class problem.**
-![fig15](./5%20-%20recurrent-neural-networks/fig15.png)
+![fig15](./5%20-%20recurrent-neural-networks/tables/fig15.png)
 
 **Fig-16: Performance of the RNN models on the Adni3 dataset in the three-class problem.**
-![fig16](./5%20-%20recurrent-neural-networks/fig16.png)
+![fig16](./5%20-%20recurrent-neural-networks/tables/fig16.png)
 
 ### Recurrent Neural Networks - Conclusion
 
