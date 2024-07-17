@@ -108,7 +108,7 @@ root/
 
 ## Results
 
-For detailed results and analysis, please refer to the [results](./reports/results.md).
+For detailed results and analysis, please refer to the [results](./results/results.md).
 
 <!-- ## Acknowledgements -->
 
