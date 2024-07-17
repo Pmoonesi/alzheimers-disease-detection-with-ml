@@ -1,6 +1,5 @@
 # Alzheimer’s disease detection using machine learning
 
-
 ## Abstract
 
 Alzheimer’s disease is one of the most important and complex neurodegenerative diseases,
@@ -26,8 +25,8 @@ and improving patients’ quality of life.
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+<!-- - [Acknowledgements](#acknowledgements) -->
+<!-- - [License](#license) -->
 <!-- - [Usage](#usage) -->
 <!-- - [Configuration](#configuration) -->
 <!-- - [Contributing](#contributing) -->
@@ -76,13 +75,44 @@ We also need to make sure we have <ins>cuda enabled</ins> pytorch installed on o
 
 ## Project Structure
 
+```
+root/
+│
+├── data/ # guide to request for access to the datasets
+│ ├── adni.md/
+│ ├── oasis.md/
+│ └── ppmi.md/ 
+│
+├── notebooks/ # notebooks used to prepare and execute mentioned algorithms
+│ ├── 1 - data-acquisition/ 
+│ ├── 2 - preprocess/ 
+│ ├── 3 - classic-methods/ 
+│ ├── 4 - convolutional-neural-networks/ 
+│ └── 5 - recurrent-neural-networks/
+│
+├── splits/ # CSVs containing tune and test splits
+│ ├── ADNI1/ 
+│ └── ADNI3/ 
+│
+├── reports/ # Results and outputs
+│ ├── 3 - classic-methods/
+│ ├── 4 - convolutional-neural-networks/
+│ ├── 5 - recurrent-neural-networks/
+│ └── results.md
+│
+├── util/ # utility scripts and extra
+│
+└── README.md
+
+```
+
 ## Results
 
 For detailed results and analysis, please refer to the [results](./reports/results.md).
 
-## License
+<!-- ## Acknowledgements -->
 
-## Acknowledgements
+<!-- ## License -->
 
 <!-- ## Usage -->
 
