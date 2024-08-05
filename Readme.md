@@ -6,13 +6,13 @@ Alzheimer’s disease is one of the most important and complex neurodegenerative
 and early and accurate diagnosis can prevent its rapid progression. The aim of this research is
 to propose and evaluate various machine learning and deep learning models for Alzheimer’s
 disease detection using MRI images. In this study, three different approaches were employed
-for MRI image classification. In the first method, classical machine learning algorithms in-
-cluding Support Vector Machine (SVM), Random Forest (RF), and Multilayer Perceptron
-(MLP) were used. The second method utilized three-dimensional Convolutional Neural Net-
-works (CNNs) to extract spatial features from images, while the third method combined three-
-dimensional CNNs with Recurrent Neural Networks (RNNs) to extract both spatial and tem-
-poral features. Evaluation results indicate that using recurrent networks along with convolu-
-tional networks outperforms three-dimensional CNNs and classical methods. Additionally,
+for MRI image classification. In the first method, classical machine learning algorithms including 
+Support Vector Machine (SVM), Random Forest (RF), and Multilayer Perceptron
+(MLP) were used. The second method utilized three-dimensional Convolutional Neural Networks (CNNs) 
+to extract spatial features from images, while the third method combined three-dimensional 
+CNNs with Recurrent Neural Networks (RNNs) to extract both spatial and temporal features. 
+Evaluation results indicate that using recurrent networks along with convolutional 
+networks outperforms three-dimensional CNNs and classical methods. Additionally,
 significant improvement in model accuracy was achieved by employing data augmentation
 techniques. However, dropout and transfer learning methods negatively affected the models’
 performance. In conclusion, this research demonstrates that advanced deep learning methods
